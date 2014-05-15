@@ -1,0 +1,35 @@
+
+.ls-verendus .ls-nav-prev, .ls-verendus .ls-nav-next {
+	background-color: #000;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=40)";
+}
+
+.oneByOne1 .arrowButton .prevArrow, .oneByOne1 .arrowButton .nextArrow { 
+	background-color: #000;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=40)";
+}
+
+.flex-direction-nav a {
+	background-color: #000!important;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(opacity=40)"!important;
+}
+
+.flex-direction-nav a.flex-prev {
+	left: 5px;
+}
+
+.flex-direction-nav a.flex-next {
+	right: 5px;
+}
+
+.mejs-horizontal-volume-slider {
+	display: none;
+	visibility: hidden;
+}
+
+.button{
+background:none;
+-ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#19000000,endColorstr=#19FFFFFF);
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#19000000,endColorstr=#19FFFFFF);
+zoom: 1;
+}
